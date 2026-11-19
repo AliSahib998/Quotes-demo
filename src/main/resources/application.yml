@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: quotes-service
+
+server:
+    port: 8080
+
+client:
+   quote:
+      url: https://dummyjson.com
